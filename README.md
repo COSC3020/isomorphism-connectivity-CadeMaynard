@@ -10,3 +10,7 @@ might help with the notation for mathematical expressions.
 $G_1=(V_1 , E_1)$ is isomorphic to $G_2 = (V_2, E_2)$ if there exists a
 one-to-one and onto function (bijection) $f: V_1 \rightarrow V_2$ such that $(u,v)
 \in E_1$ iff $(f(u),f(v)) \in E_2$.
+
+## Proof:
+
+Consider the graph H with two vertices A and B that do not have an edge between them this graph is not completely connected. H is isomorphic to itself even though it is not completely connected. Therefore, two graphs can be isomorphic to eachother without being completely connected. 
