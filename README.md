@@ -13,4 +13,4 @@ one-to-one and onto function (bijection) $f: V_1 \rightarrow V_2$ such that $(u,
 
 ## Proof:
 
-Consider the graph H with two vertices A and B that do not have an edge between them this graph is not completely connected. H is isomorphic to itself even though it is not completely connected. Therefore, two graphs can be isomorphic to eachother without being completely connected. 
+Consider the graph $H$ with two vertices $A$ and $B$ that do not have an edge between them this graph is not completely connected. $H$ is isomorphic to itself even though it is not completely connected. Therefore, two graphs can be isomorphic to eachother without being completely connected. 
